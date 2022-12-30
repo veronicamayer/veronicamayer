@@ -2,7 +2,7 @@
 
 I'm Veronica Mayer, 25 years old, living in Germany. I'm currently attending a tech bootcamp to become a full-stack developer in 2023. Contact me if you're interested in knowing what I'm learning right now 🌱
 
-![image](https://user-images.githubusercontent.com/57036284/210052276-11515696-a33b-4b27-9fc9-a82bed63d79b.png)
+![image]([https://user-images.githubusercontent.com/57036284/210052276-11515696-a33b-4b27-9fc9-a82bed63d79b.png](https://github.com/tomondre))
 
 
 <!--
