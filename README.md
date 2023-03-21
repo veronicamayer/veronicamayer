@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently attending a coding bootcamp at SuperCode to become a full-stack developer by June 2023.
 
-- 👨‍💻 All of my projects are available here on my profile
+- 👨‍💻 All of my projects are available here on my profile, see pinned repos for all the highlights 
 
 - 💬 Contact me if you're interested in knowing what I'm working on right now 
 
