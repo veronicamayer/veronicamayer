@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Veronica 👋</h1>
 <h3 align="center">Junior Frontend Developer</h3>
 
-- 🌱 I'm currently attending a coding bootcamp at SuperCode to become a full-stack developer by June 2023.
+- 🌱 I recently graduated from a full-stack web development coding bootcamp at SuperCode
 
 - 👨‍💻 All of my projects are available here on my profile, see pinned repos for all the highlights 
 
